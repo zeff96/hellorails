@@ -174,8 +174,6 @@ If you like this project, kindly give me a ⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank [Microverse](https://www.microverse.org/) for inspiring this project
-- I would like to appreciate [Render](https://render.com) for the plateform to deploy the API
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
@@ -197,7 +195,5 @@ If you like this project, kindly give me a ⭐️
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
